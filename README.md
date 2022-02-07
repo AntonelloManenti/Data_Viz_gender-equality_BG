@@ -26,5 +26,3 @@ Vector format (.ai and .svg): https://github.com/AntonelloManenti/Data_Viz_gende
 ## Contacts
 [![Linkedin](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/antonello-manenti/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=red&color=gray)](mailto:antonellomanenti@gmail.com)
-
-Instagram?
