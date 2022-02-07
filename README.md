@@ -5,11 +5,14 @@
 
 
 
-## Sources
+## Links
+
+
+Data source: https://docs.google.com/spreadsheets/d/1vgyfhxKT2VN7OAvuowHokIaNMqA2Xdb6VjCLOV7wtjE/edit?usp=sharing
+
+---------
 
 Slide: https://docs.google.com/presentation/d/167omf56UWUovZYYGuL2i6gO_YENCJwHvceBw_PgAgwA/edit?usp=sharing
-
-Source: https://docs.google.com/spreadsheets/d/1vgyfhxKT2VN7OAvuowHokIaNMqA2Xdb6VjCLOV7wtjE/edit?usp=sharing
 
 GitHub: https://github.com/AntonelloManenti/Data_Viz_gender-equality_BG
 
