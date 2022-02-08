@@ -1,5 +1,5 @@
 # Data viz about gender equality in municipality of Bergamo (IT)
-#### _Data source: [Google sheets]_
+#### _Data source: [Google sheets] | [.csv]_
 
 ![data viz gender equality](https://github.com/AntonelloManenti/Data_Viz_gender-equality_BG/blob/main/web/169_WEB_Presenza_MF_Comune_BG_2022.jpg)
 
@@ -25,4 +25,4 @@
    [16:9 format (.pdf)]:<https://github.com/AntonelloManenti/Data_Viz_gender-equality_BG/blob/main/pdf/169_Presenza_MF_Comune_BG_2022.pdf>
    [Vector format (.ai and .svg)]:<https://github.com/AntonelloManenti/Data_Viz_gender-equality_BG/tree/main/vector>
    [Google sheets]:<https://docs.google.com/spreadsheets/d/1vgyfhxKT2VN7OAvuowHokIaNMqA2Xdb6VjCLOV7wtjE/edit?usp=sharing>
-   [.csv]:<https://docs.google.com/spreadsheets/d/1vgyfhxKT2VN7OAvuowHokIaNMqA2Xdb6VjCLOV7wtjE/edit?usp=sharing>
+   [.csv]:<https://github.com/AntonelloManenti/Data_Viz_gender-equality_BG/blob/main/data_source.csv>
