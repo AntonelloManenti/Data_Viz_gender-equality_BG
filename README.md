@@ -11,7 +11,7 @@
 
 
 ## License
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AntonelloManenti/Data_Viz_gender-equality_BG/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-CC%201.0-blue.svg)](https://github.com/AntonelloManenti/Data_Viz_gender-equality_BG/blob/main/LICENSE)
 
 ## Contacts
 [![Linkedin](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/antonello-manenti/)
